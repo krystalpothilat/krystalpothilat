@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Krystal Pothilat
 -    I'm currently a second-year computer science student at UC Riverside
 - 👀 I’m interested in app development and animation
-<!--- 🌱 I’m currently learning ...
+- 👥 Here's my Linkedin : linkedin.com/in/krystalpothilat
+- 📫 How to reach me: kpoth001@ucr.edu
+- <!--- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 How to reach me: kpoth001@ucr.edu
 
 <!---
 krystalpothilat/krystalpothilat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
