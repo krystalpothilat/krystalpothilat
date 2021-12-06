@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Krystal Pothilat
--    I'm currently a second-year computer science student at UC Riverside
+- 📚 I'm currently a second-year computer science student at UC Riverside
 - 👀 I’m interested in app development and animation
 - 👥 Here's my Linkedin : linkedin.com/in/krystalpothilat
 - 📫 How to reach me: kpoth001@ucr.edu
-- <!--- 🌱 I’m currently learning ...
+ <!--- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
 
