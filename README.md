@@ -1,6 +1,6 @@
 - 👋 Hi! I’m Krystal Pothilat
 - 👩🏻‍🎓 B.S. in Computer Science 
-- 👀 Specialized in C++, Javascript, React.js
+- 🧠 Specialized in C++, Javascript, React.js
 - 👥 Here's my Linkedin: [linkedin.com/in/krystalpothilat](https://www.linkedin.com/in/krystalpothilat)
 - 🖥️ Check out my website: https://krystalpothilat.github.io/
 - 📫 How to reach me: krystalpothilat@gmail.com
